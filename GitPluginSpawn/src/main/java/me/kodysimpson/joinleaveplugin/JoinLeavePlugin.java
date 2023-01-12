@@ -30,7 +30,7 @@ public final class JoinLeavePlugin extends JavaPlugin {
         this.getCommand("discord").setExecutor(new links());
         getServer().getPluginManager().registerEvents(new onJoin(), this);
     }
-
+//test
     public static JoinLeavePlugin getInstance() {
         return instance;
     }
