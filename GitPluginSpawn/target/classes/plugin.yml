@@ -1,0 +1,14 @@
+name: JoinLeavePlugin
+version: 1.0-SNAPSHOT
+main: me.kodysimpson.joinleaveplugin.JoinLeavePlugin
+api-version: 1.17
+commands:
+  spawn:
+    description: Your description
+    usage: /<command>
+  discord:
+    description: Your description
+    usage: /<command>
+  money:
+    description: Your description
+    usage: /<command>
